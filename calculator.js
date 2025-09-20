@@ -1,4 +1,4 @@
-function calculator(operator, num1, num2) {
+export default function calculator(operator, num1, num2) {
   let hasil;
 
   if (operator === "+") {
